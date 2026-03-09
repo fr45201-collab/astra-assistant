@@ -1,0 +1,10 @@
+pyttsx3
+SpeechRecognition
+pyaudio
+pywhatkit
+requests
+psutil
+speedtest-cli
+pyautogui
+googlesearch-python
+python-dotenv
